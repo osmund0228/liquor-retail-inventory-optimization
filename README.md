@@ -13,7 +13,7 @@
 
 팀원 (핵심 전략 도출) — 회귀분석 기반 수요예측(`strategy/회귀분석_최종.ipynb`)으로 예상 수요를 산출하고, 이를 바탕으로 과잉 재고 문제를 규명해 ROP(재주문점) 발주 전략을 설계·시뮬레이션. 해당 전략으로 과잉 재고 50% 감축 효과를 정량적으로 검증
 
-## 발표자료
+## 발표 자료
 - 노션 링크: https://app.notion.com/p/Drink-Sight-LLC-TEAM-397ccefbe7fa80c7a2c0f0fc02e3f2bc?source=copy_link
 - PDF 파일: `docs/1차인콘_발표자료.pdf`
 
