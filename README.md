@@ -13,6 +13,10 @@
 
 팀원 (핵심 전략 도출) — 회귀분석 기반 수요예측(`strategy/회귀분석_최종.ipynb`)으로 예상 수요를 산출하고, 이를 바탕으로 과잉 재고 문제를 규명해 ROP(재주문점) 발주 전략을 설계·시뮬레이션. 해당 전략으로 과잉 재고 50% 감축 효과를 정량적으로 검증
 
+## 발표자료
+- 노션 링크: https://app.notion.com/p/Drink-Sight-LLC-TEAM-397ccefbe7fa80c7a2c0f0fc02e3f2bc?source=copy_link
+- PDF 파일: `docs/1차인콘_발표자료.pdf`
+
 ## 주요 내용 및 성과
 
 - **ERP 데이터 병합 및 전처리**: 매출, 재고, 매입 등 기업의 분산된 가상 ERP 테이블을 고유 키(Key) 기준으로 결합(Join)·정제하여 분석에 최적화된 전처리 데이터셋 구축
@@ -31,10 +35,6 @@
    - `brand_id_군집화.ipynb` — 브랜드 군집화(KMeans/DBSCAN)
    - `cluster0_ABC.ipynb` — 군집별 ABC 분석
    - `회귀분석_최종.ipynb` — 회귀분석 기반 수요예측 및 ROP 발주 전략 시뮬레이션 (담당 파트)
-
-## 데모
-
-- 발표자료: `docs/1차인콘_발표자료.pdf`
 
 ## 데이터
 
